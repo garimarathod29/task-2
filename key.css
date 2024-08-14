@@ -1,0 +1,61 @@
+ body{
+    background-color:#FFEFEF
+ }
+
+.h1{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    font-family: "Arvo", cursive;
+    text-shadow: 3px 0 #ebc6d6;
+    font-size: 3rem;
+
+}
+
+.p{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    font-family: "Arvo", cursive;
+    text-shadow: 3px 0 #ebc6d6;
+
+}
+
+.button{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+
+.drum{
+
+        outline: none;
+        border: 10px solid #404B69;
+        font-size: 210%;
+        font-family: 'Arvo', cursive;
+        line-height: 2;
+        font-weight: 900;
+        color: #DA0463;
+        text-shadow: 3px 0 #DBEDF3;
+        border-radius: 15px;
+        display: inline-block;
+        width: 200px;
+        height: 200px;
+        text-align: center;
+        margin: 10px;
+        background-color: white;
+       
+   
+}
+.footer{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    color : black;
+    font-family: "Arvo", cursive;
+}
+
